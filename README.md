@@ -1,4 +1,4 @@
-<h1 align="center">Hello There!, I'm Amirulloh <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center">Hello!<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/amirudev"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Software+Developer;Junior+Cross+Platform+Flutter+Developer;Android%20|%20Web%20|%20Flutter%20;Still%20Learning%20And%20Exploring&center=true&width=500&height=50"></a>
 </p>
